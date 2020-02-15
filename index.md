@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### 2D Games With Unity
+## 2D Games With Unity
 
 [Downside Up (2019)](/downsideup.md)
 <a href = "/downsideup.html"><img src="images/downsideup.png"/></a>
@@ -14,7 +14,7 @@
 
 ---
 
-### Mixed Reality
+## Mixed Reality
 
 [Synesthesia (2016)](/synesthesia.md)
 <a href = "/synesthesia.html"><img src="images/synesthesia.png"/></a>
@@ -31,7 +31,7 @@
 
 ---
 
-### Research
+## Research
 
 [Evaluating the Use of Affordable User Testing and Visualization Techniques in Level Design of a Hardcore 2D Platform Game (2019)](https://www.sbgames.org/sbgames2019/files/papers/ArtesDesignFull/197031.pdf)
 <a href = "https://www.sbgames.org/sbgames2019/files/papers/ArtesDesignFull/197031.pdf"><img src="images/datavis_paper.png"/></a>
