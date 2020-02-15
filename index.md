@@ -10,19 +10,19 @@
 ---
 
 [2001: Space Puzzle (2016)](/2001.md)
-<a href = "/2001.md"><img src="images/space_puzzle.jpeg"/></a>
+<a href = "/2001.html"><img src="images/2001_screenshots.jpg"/></a>
 
 ---
 
 ### Mixed Reality
 
 [Synesthesia (2016)](/synesthesia.md)
-<img src="images/synesthesia.png"/>
+<a href = "/synesthesia.html"><img src="images/synesthesia.png"/></a>
 
 ---
 
-[XTREME SHOOTING SIMULATOR (2015)](http://example.com/)
-<img src="images/xss.jpg"/>
+[XTREME SHOOTING SIMULATOR (2015)](/xss.md)
+<a href = "/xss.html"><img src="images/xss.jpg"/></a>
 
 ---
 
