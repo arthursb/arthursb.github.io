@@ -8,3 +8,6 @@ description: >
   <a href="https://www.linkedin.com/in/arthursbastos/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
