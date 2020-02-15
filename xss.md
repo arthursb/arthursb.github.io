@@ -5,7 +5,11 @@
 A budget shooting simulator designed for training the local police. 
 It employs the PS Eye camera with a red filter to detect lasers fired by custom 3D-printed “bullets".
 The bullets were used with airsoft guns.
-Unfortunately the only public footage available is the [company's official product page on Facebook](https://www.facebook.com/xssimulator/).
+
+### Official Pages
+
+- [Crearetech on Facebook](https://www.facebook.com/crearetech/)
+- [XSS on Facebook](https://www.facebook.com/xssimulator/)
 
 ### Showcase
 
