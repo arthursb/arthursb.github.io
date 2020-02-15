@@ -21,8 +21,8 @@ This ambience created an 80's arcade feeling.
 
 <br>
 
+<img src="images/synesthesia.png"/>
 <img src="images/synesthesia_1.jpg"/>
-<img src="images/synesthesia_2.jpg"/>
 
 ## Reception
 
