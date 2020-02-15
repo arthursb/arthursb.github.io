@@ -1,4 +1,4 @@
-## Synesthesia
+# Synesthesia
 
 <img src="images/synesthesia_banner.jpg"/>
 
@@ -9,13 +9,13 @@ We set LED stripes to help players localize themselves in the real world and hav
 These lights were synchronized with the game. Through beat detection, we could make the lights blink and change color to the music.
 This ambience created an 80's arcade feeling.
 
-### Setup
+## Setup
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//T4e8_9a2reU' frameborder='0' allowfullscreen></iframe></div>
 
 <br>
 
-### Gameplay
+## Gameplay
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//9KPFe5mHrTE' frameborder='0' allowfullscreen></iframe></div>
 
@@ -24,6 +24,6 @@ This ambience created an 80's arcade feeling.
 <img src="images/synesthesia_1.jpg"/>
 <img src="images/synesthesia_2.jpg"/>
 
-### Reception
+## Reception
 
 The research was given a [Best Paper Award](http://usuarios.upf.br/~rieder/svr2017/awards.html) in 2017.
