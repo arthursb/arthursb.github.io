@@ -26,8 +26,8 @@
 
 ---
 
-[Beach Pong (2014)](http://example.com/)
-<img src="images/beachpong.jpg"/>
+[Beach Pong (2014)](/beachpong.md)
+<a href = "/beachpong.html"><img src="images/beachpong.jpg"/></a>
 
 ---
 
