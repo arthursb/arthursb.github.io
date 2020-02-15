@@ -20,7 +20,7 @@
 
 [Synesthesia (2016)](/synesthesia.md)
 
-<a href = "/synesthesia.html"><img src="images/synesthesia.png"/></a>
+<a href = "/synesthesia.html"><img src="images/synesthesia_2.jpg"/></a>
 
 ---
 
