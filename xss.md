@@ -16,3 +16,10 @@ Unfortunately the only public footage available is the [company's official produ
 <img src="images/xss_1.jpg"/>
 <img src="images/xss_2.jpg"/>
 <img src="images/xss_3.jpg"/>
+
+### Reception
+
+Links below are in Portuguese, as the game was marketed for a local audience.
+
+- [Eusebio's Official Website](http://eusebio.ce.gov.br/guarda-municipal-e-a-primeira-do-pais-a-utilizar-o-simulador-xtreme-nos-treinamentos/)
+- [Maracanau's Official Website](https://www.maracanau.ce.gov.br/guarda-municipal-de-maracanau-utiliza-simulador-de-tiro/)
