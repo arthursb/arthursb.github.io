@@ -7,7 +7,7 @@ The Kinect tracks when players move left and right, jump or crouch to control a 
 The main goal is to avoid obstacles, just like in a runner game.
 We set LED stripes to help players localize themselves in the real world and have a better notion of the camera tracking limits.
 These lights were synchronized with the game. Through beat detection, we could make the lights blink and change color to the music.
-This ambience created a 80's arcade feeling.
+This ambience created an 80's arcade feeling.
 
 ### Setup
 
