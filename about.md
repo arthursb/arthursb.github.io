@@ -10,13 +10,13 @@ I've done research on mixed reality games, game design and development, user exp
 ## Education
 - **Computer Science** (2018 - 2020): I am currently writing my thesis on Games User Research and how to improve a 2D game though user testing and data visualization with Unity. It is the only requirement left for my Master's degree in Computer Science at [Federal University of Ceará (UFC)](http://www.ufc.br/).
 - **Mobile App Development** (2018 - 2020): I am currently finishing a specialization course at [Centro Universitário 7 de Setembro](https://www.uni7.edu.br/), in which I studied Android and iOS development, both in native and hybrid environments. I am also researching the use of dark patterns of UX design in mobile apps.
-- **Digital Systems and Media**(2012 - 2017) : I graduated at UFC and focused my studies on game design. I developed an immersive mixed reality game using Kinect as my final project. The research was given a [Best Paper Award](http://usuarios.upf.br/~rieder/svr2017/awards.html) in 2017.
+- **Digital Systems and Media** (2012 - 2017) : I graduated at UFC and focused my studies on game design. I developed an immersive mixed reality game using Kinect as my final project. The research was given a [Best Paper Award](http://usuarios.upf.br/~rieder/svr2017/awards.html) in 2017.
 - **Computer Science** (2014): I've spend one year abroad thanks to an exchange program called Science without Borders. I've studied at [Dalhousie University](https://www.dal.ca/). During this time, I also worked at the [Graphics and Experimental Media Laboratory](https://gem.cs.dal.ca/).
 
 ## Languages
-1. Portuguese: native speaker
-2. English: fluent speaker (Toefl score of 102 as of September 2017)
-3. French: basic understanding (untested)
+1. **Portuguese**: native speaker
+2. **English**: fluent speaker (Toefl score of 102 as of September 2017)
+3. **French**: basic understanding (untested)
 
 ## Skills
 1. Game Design and Development
