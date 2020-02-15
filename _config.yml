@@ -5,8 +5,10 @@ description: >
   <br><br>
   <A href="/about.html">About Me</a>
   <br>
-  <a href="/resume.pdf">View My Resume</a> 
+  <A href="https://arthursb.github.io/">Portfolio</a>
   <br>
-  <a href="https://www.linkedin.com/in/arthursbastos/">View My LinkedIn Profile</a> 
+  <a href="/resume.pdf">My Resume</a> 
+  <br>
+  <a href="https://www.linkedin.com/in/arthursbastos/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
