@@ -3,6 +3,8 @@ logo: "/images/perfil.jpg"
 description: > 
   Brazilian game developer currently studying for a Master's degree in Computer Science. I've done research on mixed reality games, game design and development, user experience and data visualization. 
   <br><br>
+  <a href="/resume.pdf">View My Resume</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/arthursbastos/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
