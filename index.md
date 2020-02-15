@@ -4,19 +4,19 @@
 
 ### 2D Games With Unity
 
-[Downside Up (2019)](/sample_page)
-<img src="images/downsideup.png"/>
+[Downside Up (2019)](https://arthursb.github.io/Downside-Up/)
+<a href = "https://arthursb.github.io/Downside-Up/"><img src="images/downsideup.png"/></a>
 
 ---
 
-[2001: Space Puzzle (2016)](/pdf/sample_presentation.pdf)
+[2001: Space Puzzle (2016)](/2001.md)
 <img src="images/space_puzzle.jpeg"/>
 
 ---
 
 ### Mixed Reality
 
-[Synesthesia (2016)](/sample_page)
+[Synesthesia (2016)](/synesthesia.md)
 <img src="images/synesthesia.png"/>
 
 ---
