@@ -4,8 +4,8 @@
 
 ### 2D Games With Unity
 
-[Downside Up (2019)](https://arthursb.github.io/Downside-Up/)
-<a href = "https://arthursb.github.io/Downside-Up/"><img src="images/downsideup.png"/></a>
+[Downside Up (2019)](/downsideup.md)
+<a href = "/downsideup.html"><img src="images/downsideup.png"/></a>
 
 ---
 
