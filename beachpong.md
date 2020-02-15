@@ -1,4 +1,4 @@
-## Beach Pong (2014)
+# Beach Pong
 
 <img src="images/beachpong_banner.jpg"/>
 
@@ -17,24 +17,22 @@ If a player stays for a long time stepping on it, their game is over.
 
 Beach Pong was exhibited in an art event called [Nocturne](https://nocturnehalifax.ca).
 
-### Official Pages
+## Official Pages
 
 - [Dr. Reilly's personal page](https://web.cs.dal.ca/~reilly/Nocturne2014.html)
 - [GEM Lab's project page](https://gem.cs.dal.ca/projects/beach-pong/)
 
-### Presentation
+## Presentation
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//T4e8_9a2reU' frameborder='0' allowfullscreen></iframe></div>
 
 <br>
 
-### Timelapse
+## Setup
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/N46oWSSykbI' frameborder='0' allowfullscreen></iframe></div>
 
 <br>
-
-### Setup
 
 <img src="images/beachpong_1.jpg"/>
 <img src="images/beachpong_2.jpg"/>
@@ -42,13 +40,13 @@ Beach Pong was exhibited in an art event called [Nocturne](https://nocturnehalif
 <img src="images/beachpong_4.jpg"/>
 <img src="images/beachpong_5.jpg"/>
 
-### Gameplay
+## Gameplay
 
 <img src="images/beachpong_6.jpg"/>
 <img src="images/beachpong_7.jpg"/>
 <img src="images/beachpong_8.jpg"/>
 
-### Reception
+## Reception
 
 - [Dal News](https://www.dal.ca/news/2014/10/16/pong--all-night-long--dal-cs-brings-classic-video-game-to-the-be.html)
 - [The Coast](https://www.thecoast.ca/halifax/nocturne-by-the-hour/Content?oid=4438362)
