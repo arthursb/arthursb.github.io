@@ -1,14 +1,12 @@
 title: Arthur Bastos 
 logo: "/images/Perfil.jpg"
 description: > 
-  Brazilian game developer currently studying for a Master's degree in Computer Science. 
-  <br><br>
   <A href="/about.html">About Me</a>
   <br>
   <A href="https://arthursb.github.io/">Portfolio</a>
   <br>
-  <a href="/resume.pdf">My Resume</a> 
+  <a href="/resume.pdf">Resume</a> 
   <br>
-  <a href="https://www.linkedin.com/in/arthursbastos/">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/arthursbastos/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
