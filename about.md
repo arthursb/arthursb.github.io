@@ -19,8 +19,29 @@ I've done research on mixed reality games, game design and development, user exp
 3. **French**: basic understanding (untested)
 
 ## Skills
-1. Game Design and Development
-2. Games User Research
-3. Data Visualization
-4. Mobile App Development
-5. UX Design
+### Primary
+- Game Design and Development
+- Games User Research
+- Data Visualization
+
+### Secondary
+- Mobile App Development
+- UX Design
+
+## Coding
+### Primary
+- C#
+
+### Secondary
+- Java
+- Swift
+- C, C++
+- HTML, CSS, Javascript
+
+## Tools
+- Unity 
+- Construct 2, Construct 3
+- Git
+- Tableau
+- Android Studio
+- Xcode
