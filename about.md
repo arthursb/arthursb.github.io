@@ -14,9 +14,9 @@ I've done research on mixed reality games, game design and development, user exp
 - **Computer Science** (2014): I've spend one year abroad thanks to an exchange program called Science without Borders. I've studied at [Dalhousie University](https://www.dal.ca/). During this time, I also worked at the [Graphics and Experimental Media Laboratory](https://gem.cs.dal.ca/).
 
 ## Languages
-1. **Portuguese**: native speaker
-2. **English**: fluent speaker (Toefl score of 102 as of September 2017)
-3. **French**: basic understanding (untested)
+- **Portuguese**: native speaker
+- **English**: fluent speaker (Toefl score of 102 as of September 2017)
+- **French**: basic understanding (untested)
 
 ## Skills
 ### Primary
