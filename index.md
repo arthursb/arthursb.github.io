@@ -10,7 +10,7 @@
 
 ---
 
-[2001: Space Puzzle (2016)](/2001.md)
+[2001 Space Puzzle (2016)](/2001.md)
 
 <a href = "/2001.html"><img src="images/2001_screenshots.jpg"/></a>
 
