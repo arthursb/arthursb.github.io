@@ -1,5 +1,7 @@
 # Research
 
+---
+
 [Evaluating the Use of Affordable User Testing and Visualization Techniques in Level Design of a Hardcore 2D Platform Game (2019)](https://www.sbgames.org/sbgames2019/files/papers/ArtesDesignFull/197031.pdf)
 
 <a href = "https://www.sbgames.org/sbgames2019/files/papers/ArtesDesignFull/197031.pdf"><img src="images/datavis_paper.png"/></a>
