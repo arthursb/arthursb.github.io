@@ -3,9 +3,11 @@ logo: "/images/Perfil.png"
 description: > 
   <A href="/about.html">About Me</a>
   <br>
+  <a href="/resume.pdf">Resume</a> 
+  <br>
   <A href="https://arthursb.github.io/">Portfolio</a>
   <br>
-  <a href="/resume.pdf">Resume</a> 
+  <A href="https://arthursb.github.io/research.md">Research</a>
   <br>
   <a href="https://www.linkedin.com/in/arthursbastos/">LinkedIn</a> 
   
