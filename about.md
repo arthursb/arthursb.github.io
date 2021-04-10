@@ -12,31 +12,8 @@ Brazilian software developer who works at Instituto Atlântico making applicatio
 - **Digital Systems and Media** (2012 - 2017) : I graduated at UFC and focused my studies on game design. I developed an immersive mixed reality game using Kinect as my final project. The research was given a [Best Paper Award](http://usuarios.upf.br/~rieder/svr2017/awards.html) in 2017.
 - **Computer Science** (2014): I've spend one year abroad thanks to an exchange program called Science without Borders. I've studied at [Dalhousie University](https://www.dal.ca/). During this time, I also worked at the [Graphics and Experimental Media Laboratory](https://gem.cs.dal.ca/).
 
-## Languages
-- **Portuguese**: native speaker
-- **English**: fluent speaker (Toefl score of 102 as of September 2017)
-- **French**: basic understanding (untested)
-
 ## Skills
-### Primary
-- Game Design and Development
-- Games User Research
-- Data Visualization
-
-### Secondary
-- Mobile App Development
-- UX Design
-
-## Coding
-### Primary
-- C#
-
-### Secondary
-- Java
-- Swift
-- C, C++
-- HTML, CSS, Javascript
-
-## Tools
 - Unity 
-- Construct 2, Construct 3
+- ThreeJS
+- Game design and development
+- User Testing
