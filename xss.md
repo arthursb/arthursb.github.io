@@ -3,7 +3,7 @@
 <img src="images/xss_banner.png"/>
 
 A budget shooting simulator designed for training the local police. 
-It employs the PS Eye camera with a red filter to detect lasers fired by custom 3D-printed “bullets".
+It employs the PS Eye camera with a red filter to detect lasers fired by custom 3D-printed "bullets".
 The bullets were used with airsoft guns.
 
 ## Official Pages
