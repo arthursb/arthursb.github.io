@@ -2,7 +2,7 @@
 
 <img src="images/beachpong_banner.jpg"/>
 
-A mixed reality game that redesigns the classic game Pong in 3D. 
+A mixed-reality game that redesigns the classic game Pong in 3D. 
 
 Players were set in a sand court and had to physically move around to move the paddle in the virtual world. 
 They held a foam paddle equipped with Microsoft Surface tablets so they could see the virtual world in 3D through the paddle's viewport.
