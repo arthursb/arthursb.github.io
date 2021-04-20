@@ -10,9 +10,15 @@
 
 ---
 
+[Sumset Classic, Sumset Slider and Hexago (2017)](/puzzles.md)
+
+<a href = "/puzzles.html"><img src="images/advancegames.jpg"/></a>
+
+---
+
 [2001 Space Puzzle (2016)](/2001.md)
 
-<a href = "advance-games/2001.html"><img src="images/2001_screenshots.jpg"/></a>
+<a href = "/2001.html"><img src="images/2001_screenshots.jpg"/></a>
 
 ---
 
