@@ -1,0 +1,17 @@
+{
+"companyName": "Advance Games",
+"productName": "TraceRT",
+"productVersion": "0.1",
+"dataUrl": "TraceRT.data.unityweb",
+"wasmCodeUrl": "TraceRT.wasm.code.unityweb",
+"wasmFrameworkUrl": "TraceRT.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "TraceRT.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
