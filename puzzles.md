@@ -24,6 +24,8 @@ Slide the circle or click the heaxagons to swap positions. Align the hexagons so
 
 ## TraceRT
 
+Create a path using the arrows to collect all items and lead the spaceship to the goal.
+
 <img src="images/tracert.gif"/>
 
 ## Play the Games
