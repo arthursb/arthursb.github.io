@@ -1,6 +1,6 @@
 # Advance Games
 
-<img src="images/advancegames.jpgter"/>
+<img src="images/advancegames.jpg"/>
 
 A series of short, casual, free minimalistic puzzle games with clever mechanics. 
 
