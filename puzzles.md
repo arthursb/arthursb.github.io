@@ -6,8 +6,9 @@ A series of short, casual, free minimalistic puzzle games with clever mechanics.
 
 Credits:
 - Arthur Bastos (Programming)
-- Evandro Sorensen (Puzzles)
-- Guilherme Pedrosa (Graphics)
+- Evandro Sorensen (Puzzle Design)
+- Guilherme Pedrosa (Visuals)
+- JP Martins (Visuals)
 - Luan Lucas (Sound)
 
 ## SumSet (Classic)
