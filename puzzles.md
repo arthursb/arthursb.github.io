@@ -4,13 +4,6 @@
 
 A series of short, casual, free minimalistic puzzle games with clever mechanics. 
 
-Credits:
-- Arthur Bastos (Programming)
-- Evandro Sorensen (Puzzle Design)
-- Guilherme Pedrosa (Visuals)
-- JP Martins (Visuals)
-- Luan Lucas (Sound)
-
 ## SumSet (Classic)
 
 Move the heaxagons to an empty space or swap the position of two hexagons. Align the hexagons so all values match the rows and columns.
@@ -36,3 +29,14 @@ You can play the games in your browser using the following links:
 - [SumSet Classic](https://arthursb.github.io/advance-games/Classic/index.html)
 - [SumSet Slider](https://arthursb.github.io/advance-games/Slider/index.html)
 - [TraceRT](https://arthursb.github.io/advance-games/TraceRT/index.html)
+
+## Credits
+Arthur Bastos (Programming)
+
+Evandro Sorensen (Puzzle Design)
+
+Guilherme Pedrosa (Visuals)
+
+JP Martins (Visuals)
+
+Luan Lucas (Sound)
