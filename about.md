@@ -11,9 +11,3 @@ A Brazilian software developer who works at Instituto Atlântico making applicat
 - **Mobile App Development** (2018 - 2020): Finished a specialization course at [Centro Universitário 7 de Setembro](https://www.uni7.edu.br/). I studied Android and iOS development, both in native and hybrid environments. During this time, I researched the usage of dark patterns in the UX design of Brazilian food delivery mobile apps.
 - **Digital Systems and Media** (2012 - 2017) : I graduated from UFC and focused my studies on game design. I developed an immersive mixed reality game using Kinect as my final project. The research was given a [Best Paper Award](http://usuarios.upf.br/~rieder/svr2017/awards.html) in 2017.
 - **Computer Science** (2014): I've spent one year abroad thanks to an exchange program called Science without Borders. I've studied at [Dalhousie University](https://www.dal.ca/). During this time, I also worked at the [Graphics and Experimental Media Laboratory](https://gem.cs.dal.ca/).
-
-## Skills
-- Unity 
-- ThreeJS
-- Game design and development
-- User Testing

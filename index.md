@@ -2,41 +2,37 @@
 
 ---
 
-## 2D Games With Unity
-
-[Downside Up (2019)](/downsideup.md)
+## [2019 - Downside Up](/downsideup.md)
 
 <a href = "/downsideup.html"><img src="images/downsideup.png"/></a>
 
 ---
 
-[Sumset Classic, Sumset Slider and Hexago (2017)](/puzzles.md)
+## [2017 - Sumset Classic, Sumset Slider and Hexago](/puzzles.md)
 
 <a href = "/puzzles.html"><img src="images/advancegames.jpg"/></a>
 
 ---
 
-[2001 Space Puzzle (2016)](/2001.md)
+## [2016 - Space Puzzle](/2001.md)
 
 <a href = "/2001.html"><img src="images/2001_screenshots.jpg"/></a>
 
 ---
 
-## Mixed Reality
-
-[Synesthesia (2016)](/synesthesia.md)
+## [2016 - Synesthesia](/synesthesia.md)
 
 <a href = "/synesthesia.html"><img src="images/synesthesia_2.jpg"/></a>
 
 ---
 
-[XTREME SHOOTING SIMULATOR (2015)](/xss.md)
+## [2015 - XTREME SHOOTING SIMULATOR](/xss.md)
 
 <a href = "/xss.html"><img src="images/xss.jpg"/></a>
 
 ---
 
-[Beach Pong (2014)](/beachpong.md)
+## [2014 - Beach Pong](/beachpong.md)
 
 <a href = "/beachpong.html"><img src="images/beachpong.jpg"/></a>
 
