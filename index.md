@@ -2,6 +2,12 @@
 
 ---
 
+## [2020 - Copelia](/copelia.md)
+
+<a href = "/copelia.html"><img src="images/copelia.jpg"/></a>
+
+---
+
 ## [2019 - Downside Up](/downsideup.md)
 
 <a href = "/downsideup.html"><img src="images/downsideup.png"/></a>
