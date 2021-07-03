@@ -14,6 +14,5 @@ I worked as the main programmer of the application itself. It was a very challen
 
 <br>
 
-<img src="images/copelia_1.jpg"/>
 <img src="images/copelia_2.png"/>
 <img src="images/copelia_3.png"/>
