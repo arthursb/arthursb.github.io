@@ -2,9 +2,9 @@
 
 ---
 
-## [2020 - Copelia](/copelia.md)
+## [2020 - AR Project](/copelia.md)
 
-<a href = "/copelia.html"><img src="images/copelia.jpg"/></a>
+<a href = "/copelia.html"><img src="images/smartglass.jpg"/></a>
 
 ---
 
