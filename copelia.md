@@ -1,4 +1,4 @@
-# Augmented Reality Project
+# Copelia
 
 <img src="images/smartglass.jpg"/>
 
