@@ -1,61 +1,69 @@
-<div align="center" padding="12px">
+<div align="center">
 
 <h1>Portfolio</h1>
 
+<div>
 <a href = "/copelia.html">
-<h2><b>Cloud Quest</b> (2021)</h2>
-<h4><b>AWS Training & Certification</b></h4>
+<h2>Cloud Quest (2021)</h2>
+<h4>AWS Training & Certification</h4>
 <img height=300 src="images/cloudquest.png"/></a>
-<h6><b>Game Based Learning, Front End Development</b></h6>
-<br>
+<h5>Game Based Learning, Front End Development</h6>
+</div>
 
+<div>
 <a href = "/copelia.html">
-<h2><b>Copelia</b> (2020)</h2>
-<h4><b>Instituto Atlântico</b></h4>
+<h2>Copelia (2020)</h2>
+<h4>Instituto Atlântico</h4>
 <img height=250 src="images/smartglass.jpg"/></a>
-<h6><b>Augmented Reality (AR), UX Research</b></h6>
-<br>
+<h5>Augmented Reality (AR), UX Research</h6>
+</div>
 
+<div>
 <a href = "/downsideup.html">
-<h2><b>Downside Up</b> (2019)</h2>
-<h4><b>Universidade Federal do Ceará</b></h4>
+<h2>Downside Up (2019)</h2>
+<h4>Universidade Federal do Ceará</h4>
 <img height=300 src="images/downsideup.png"/></a>
-<h6><b>Games User Research, Game Development</b></h6>
-<br>
+<h5>Games User Research, Game Development</h6>
+</div>
 
----
-## [<b>Sumset Classic, Sumset Slider and Hexago</b> (2017)](/puzzles.md)
-#### <b>Advance Comunicação</b>
-<a href = "/puzzles.html"><img height=250 src="images/advancegames.jpg"/></a>
-### Game Development
-<br>
+<div>
+<a href = "/puzzles.html">
+<h2>Sumset Classic, Sumset Slider and Hexago (2017)</h2>
+<h4>Advance Comunicação</h4>
+<img height=250 src="images/advancegames.jpg"/></a>
+<h5>Game Development</h6>
+</div>
 
----
-## [<b>2001: Space Puzzle</b> (2016)](/2001.md)
-#### <b>Advance Comunicação</b>
-<a href = "/2001.html"><img height=350 src="images/2001_screenshots.jpg"/></a>
-### Game Development
-<br>
+<div>
+<a href = "/2001.html">
+<h2>2001: Space Puzzle (2016)</h2>
+<h4>Advance Comunicação</h4>
+<img height=350 src="images/2001_screenshots.jpg"/></a>
+<h5>Game Development</h6>
+</div>
 
----
-## [<b>Synesthesia</b> (2016)](/synesthesia.md)
-#### <b>Universidade Federal do Ceará</b>
-<a href = "/synesthesia.html"><img height=250 src="images/synesthesia_2.jpg"/></a>
-### Mixed Reality (MR), Multimedia Installation, Game Development
-<br>
+<div>
+<a href = "/synesthesia.html">
+<h2>Synesthesia (2016)</h2>
+<h4>Universidade Federal do Ceará</h4>
+<img height=250 src="images/synesthesia_2.jpg"/></a>
+<h5>Mixed Reality (MR), Multimedia Installation, Game Development</h6>
+</div>
 
----
-## [<b>XTREME SHOOTING SIMULATOR</b> (2015)](/xss.md)
-#### <b>Crearetech</b>
-<a href = "/xss.html"><img height=300 src="images/xss.jpg"/></a>
-### Mixed Reality (MR)
-<br>
+<div>
+<a href = "/xss.html">
+<h2>XTREME SHOOTING SIMULATOR (2015)</h2>
+<h4>Crearetech</h4>
+<img height=300 src="images/xss.jpg"/></a>
+<h5>Mixed Reality (MR)</h6>
+</div>
 
----
-## [<b>Beach Pong</b> (2014)](/beachpong.md)
-#### <b>Dalhousie University</b>
-<a href = "/beachpong.html"><img height=250 src="images/beachpong.jpg"/></a>
-### Mixed Reality (MR), Multimedia Installation, Multiplayer
-<br>
+<div>
+<a href = "/beachpong.html">
+<h2>Beach Pong (2014)</h2>
+<h4>Dalhousie University</h4>
+<img height=250 src="images/beachpong.jpg"/></a>
+<h5>Mixed Reality (MR), Multimedia Installation, Multiplayer</h6>
+</div>
 
 </div>
