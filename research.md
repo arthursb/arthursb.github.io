@@ -1,4 +1,4 @@
-# Research
+# Publications
 
 ### 2021:
 ##### [Augmented Reality for Training and Maintenance of Reclosers: A Case Study of a Wearable Application](https://ieeexplore.ieee.org/abstract/document/9529476)
