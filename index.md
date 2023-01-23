@@ -1,26 +1,26 @@
 <div align="center" padding="12px">
 
-# Portfolio
+<h1>Portfolio</h1>
 
----
-## [<b>Cloud Quest</b> (2021)](/copelia.md)
-#### <b>AWS Training & Certification</b>
-<a href = "/copelia.html"><img height=300 src="images/cloudquest.png"/></a>
-### Game Based Learning, Front End Development
+<a href = "/copelia.html">
+<h2><b>Cloud Quest</b> (2021)</h2>
+<h4><b>AWS Training & Certification</b></h4>
+<img height=300 src="images/cloudquest.png"/></a>
+<h6><b>Game Based Learning, Front End Development</b></h6>
 <br>
 
----
-## [<b>Copelia</b> (2020)](/copelia.md)
-#### <b>Instituto Atlântico</b>
-<a href = "/copelia.html"><img height=250 src="images/smartglass.jpg"/></a>
-### Augmented Reality (AR), UX Research
+<a href = "/copelia.html">
+<h2><b>Copelia</b> (2020)</h2>
+<h4><b>Instituto Atlântico</b></h4>
+<img height=250 src="images/smartglass.jpg"/></a>
+<h6><b>Augmented Reality (AR), UX Research</b></h6>
 <br>
 
----
-## [<b>Downside Up</b> (2019)](/downsideup.md)
-#### <b>Universidade Federal do Ceará</b>
-<a href = "/downsideup.html"><img height=300 src="images/downsideup.png"/></a>
-### Games User Research, Game Development
+<a href = "/downsideup.html">
+<h2><b>Downside Up</b> (2019)</h2>
+<h4><b>Universidade Federal do Ceará</b></h4>
+<img height=300 src="images/downsideup.png"/></a>
+<h6><b>Games User Research, Game Development</b></h6>
 <br>
 
 ---

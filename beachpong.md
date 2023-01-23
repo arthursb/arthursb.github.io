@@ -4,21 +4,17 @@
 
 ## About the project
 
-A mixed-reality game that redesigns the classic game Pong in 3D. 
+Beach Pong was the product of research questions about immersion in mixed reality environments.
 
-Players were set in a sand court and had to physically move around to move the paddle in the virtual world. They held a foam paddle equipped with Microsoft Surface tablets so they could see the virtual world in 3D through the paddle's viewport.
+The team was tasked to create a game to investigate player behavior in situations that involved dividing attention between virtual gameplay elements and the real world.
 
-The audience could see the virtual environment as a projection in an old VCR screen outside the court.
+I developed core gameplay design and implementation. This project required integration between multiple devices, such as Microsoft Surface tablets (client), Macbook Minis (server) and Kinects (motion capture).
 
-A grid of LED lights was placed and synced with the game. These lights showed the position of the ball.
+The game remixes mechanics from the classic game Pong. Players were given foam paddles embedded with tablets to act as their viewport. They physically moved around a sand court to make their virtual paddles move. Multiple Kinects tracked player positions and mapped them in the virtual world. Furthermore, the Kinects also tracked depressions in the sand and mapped them as hazards in the game. It was a clever mechanic to incentivize divided attention.
 
-While players moved around the court, they caused depressions in the sand. These were detected by the Kinect's depth cameras. 
-When that happens, the game creates hazards in the form of lava, which are projected in the sand. 
-If a player stays for a long time stepping on it, their game is over.
+The installation had features for the crowd as well. The court was decorated with a LED grid that blinked to represent where the ball is in the virtual world. The grid also served as serve as visual cue for the limits of player movement. There was also a top-down view of the game that resambled the old-school Pong game.
 
-It was my first project ever in Unity and the one I am the most proud of. I had the task to develop the game client.
-
-Beach Pong was exhibited in an art event called [Nocturne](https://nocturnehalifax.ca).
+Beach Pong was exhibited in an art event called [Nocturne](https://nocturnehalifax.ca). It managed to catch the attention of nearby walkers and create huge lines of people who wanted to play. The experiment also led to two research papers.
 
 ## Media
 
