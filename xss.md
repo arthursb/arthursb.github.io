@@ -21,9 +21,9 @@ I was hired to maintain the software, improve the UI and add features related to
 
 <div style="display:flex; flex-wrap:wrap; align-items: center;
   justify-content: center;">
-     <div style="width:45%; margin:15px;">
+     <div style="width:45%; margin:12px;">
           <img src="images/xss_1.jpg"/>
-     </div><div style="width:45%; margin:15px;">
+     </div><div style="width:45%; margin:12px;">
           <img src="images/xss_2.jpg"/>
      </div>
 </div>

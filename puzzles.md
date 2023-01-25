@@ -30,15 +30,3 @@ In TraceRT, players must create a path that guides the ship to collect all items
 </div>
 
 <br>
-
-## Credits
-
-Arthur Bastos (Programming)
-
-Evandro Sorensen (Puzzle Design)
-
-Guilherme Pedrosa (Visuals)
-
-JP Martins (Visuals)
-
-Luan Lucas (Sound)
