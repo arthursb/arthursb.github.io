@@ -19,15 +19,15 @@ In this project I learned about designing games based on analytics. You can chec
 <div style="display:flex; flex-wrap:wrap; align-items: center;
   justify-content: center;">
      <div style="width:48%; margin:1%;">
-          <img src="images/downsideup.png"/>
+          <a href="images/downsideup.png"><img src="images/downsideup.png"/></a>
      </div>
      <div style="width:48%; margin:1%;">
-          <img src="images/downsideup_1.png"/>
+          <a href="images/downsideup_1.png"><img src="images/downsideup_1.png"/></a>
      </div>
      <div style="width:48%; margin:1%;">
-          <img src="images/downsideup_2.png"/>
+          <a href="images/downsideup_2.png"><img src="images/downsideup_2.png"/></a>
      </div>
      <div style="width:48%; margin:1%;">
-          <img src="images/downsideup_3.png"/>
+          <a href="images/downsideup_3.png"><img src="images/downsideup_3.png"/></a>
      </div>
 </div>
