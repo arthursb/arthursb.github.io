@@ -14,18 +14,16 @@ In TraceRT, players must create a path that guides the ship to collect all items
      <div style="width:27%; height:500px; margin:21px; text-align:center;">
           <h3> SumSet (Classic) </h3>
           <img src="images/sumset-classic.gif"/>
-          <a href="https://arthursb.github.io/advance-games/Classic/index.html">Play here<a>
+          <a href="https://arthursb.github.io/advance-games/Classic/index.html">Play here</a>
      </div>
      <div style="width:27%; height:500px; margin:21px; text-align:center;">
           <h3> SumSet (Slider) </h3>
           <img src="images/sumset-slider.gif"/>
-          <a href="https://arthursb.github.io/advance-games/Slider/index.html">Play here<a>
+          <a href="https://arthursb.github.io/advance-games/Slider/index.html">Play here</a>
      </div>
      <div style="width:27%; height:500px; margin:21px; text-align:center;">
           <h3> TraceRT </h3>
           <img src="images/tracert.gif"/>
-          <a href="https://arthursb.github.io/advance-games/TraceRT/index.html">Play here<a>
+          <a href="https://arthursb.github.io/advance-games/TraceRT/index.html">Play here</a>
      </div>
 </div>
-
-<br>

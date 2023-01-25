@@ -33,18 +33,17 @@ Beach Pong was exhibited in an art event called [Nocturne](https://nocturnehalif
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items: center;
-  justify-content: center;">
+<div style="display:flex; flex-wrap:wrap; align-items: center; justify-content: center;">
      <div style="width:45%; margin:12px;">
-          <img src="images/beachpong_2.jpg"/>
+          <a href="images/beachpong_2.jpg"><img src="images/beachpong_2.jpg"/></a>
      </div>
      <div style="width:45%; margin:12px;">
-          <img src="images/beachpong_3.jpg"/>
+          <a href="images/beachpong_3.jpg"><img src="images/beachpong_3.jpg"/></a>
      </div>
      <div style="width:45%; margin:12px;">
-          <img src="images/beachpong_4.jpg"/>
+          <a href="images/beachpong_4.jpg"><img src="images/beachpong_4.jpg"/></a>
      </div>
      <div style="width:45%; margin:12px;">
-          <img src="images/beachpong_8.jpg"/>
+          <a href="images/beachpong_8.jpg"><img src="images/beachpong_8.jpg"/></a>
      </div>
 </div>
