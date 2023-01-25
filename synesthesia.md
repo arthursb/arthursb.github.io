@@ -26,6 +26,11 @@ I wrote a paper about immersion in games comparing Synesthesia with two other co
 
 <br>
 
-<img src="images/synesthesia.png"/>
-<img src="images/synesthesia_1.jpg"/>
-<img src="images/synesthesia_2.jpg"/>
+<div style="display:flex; flex-wrap:wrap; align-items: center;
+  justify-content: center;">
+     <div style="width:45%; margin:15px;">
+          <img src="images/synesthesia.png"/>
+     </div><div style="width:45%; margin:15px;">
+          <img src="images/synesthesia_1.jpg"/>
+     </div>
+</div>

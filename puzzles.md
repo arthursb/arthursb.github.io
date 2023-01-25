@@ -4,31 +4,32 @@
 
 ## About the project
 
-A series of short, casual, free minimalistic puzzle games with clever mechanics.
+A series of short, casual, free minimalistic puzzle games with clever mechanics developed to showcase the team's ability in game development. 
 
-### SumSet (Classic)
+SumSet games consist of moving pieces to align hexagons such that the sum of their values match rows and columns. 
 
-Move the heaxagons to an empty space or swap the position of two hexagons. Align the hexagons so all values match the rows and columns.
+In TraceRT, players must create a path that guides the ship to collect all items and reach the goal.
 
-You can play SumSet Classic online [here](https://arthursb.github.io/advance-games/Classic/index.html).
+<div style="display:flex; flex-wrap:wrap; align-items: center;
+  justify-content: center;">
+     <div style="width:27%; height:500px; margin:21px; text-align:center;">
+          <h3> SumSet (Classic) </h3>
+          <img src="images/sumset-classic.gif"/>
+          <a href="https://arthursb.github.io/advance-games/Classic/index.html">Play here<a>
+     </div>
+     <div style="width:27%; height:500px; margin:21px; text-align:center;">
+          <h3> SumSet (Slider) </h3>
+          <img src="images/sumset-slider.gif"/>
+          <a href="https://arthursb.github.io/advance-games/Slider/index.html">Play here<a>
+     </div>
+     <div style="width:27%; height:500px; margin:21px; text-align:center;">
+          <h3> TraceRT </h3>
+          <img src="images/tracert.gif"/>
+          <a href="https://arthursb.github.io/advance-games/TraceRT/index.html">Play here<a>
+     </div>
+</div>
 
-<img src="images/sumset-classic.gif"/>
-
-### SumSet (Slider)
-
-Slide the circle or click the heaxagons to swap positions. Align the hexagons so all values match the rows and columns.
-
-You can play SumSet Slider online [here](https://arthursb.github.io/advance-games/Slider/index.html).
-
-<img src="images/sumset-slider.gif"/>
-
-### TraceRT
-
-Create a path using the arrows to collect all items and lead the spaceship to the goal.
-
-You can play TraceRT online [here](https://arthursb.github.io/advance-games/TraceRT/index.html).
-
-<img src="images/tracert.gif"/>
+<br>
 
 ## Credits
 

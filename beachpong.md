@@ -16,6 +16,13 @@ The installation had features for the crowd as well. The court was decorated wit
 
 Beach Pong was exhibited in an art event called [Nocturne](https://nocturnehalifax.ca). It managed to catch the attention of nearby walkers and create huge lines of people who wanted to play. The experiment also led to two research papers.
 
+## References
+
+- [Dr. Reilly's personal page](https://web.cs.dal.ca/~reilly/Nocturne2014.html)
+- [GEM Lab's project page](https://gem.cs.dal.ca/projects/beach-pong/)
+- [Dal News](https://www.dal.ca/news/2014/10/16/pong--all-night-long--dal-cs-brings-classic-video-game-to-the-be.html)
+- [The Coast](https://www.thecoast.ca/halifax/nocturne-by-the-hour/Content?oid=4438362)
+
 ## Media
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Bq--lyLY920' frameborder='0' allowfullscreen></iframe></div>
@@ -26,14 +33,18 @@ Beach Pong was exhibited in an art event called [Nocturne](https://nocturnehalif
 
 <br>
 
-<img src="images/beachpong_2.jpg"/>
-<img src="images/beachpong_3.jpg"/>
-<img src="images/beachpong_4.jpg"/>
-<img src="images/beachpong_8.jpg"/>
-
-## References
-
-- [Dr. Reilly's personal page](https://web.cs.dal.ca/~reilly/Nocturne2014.html)
-- [GEM Lab's project page](https://gem.cs.dal.ca/projects/beach-pong/)
-- [Dal News](https://www.dal.ca/news/2014/10/16/pong--all-night-long--dal-cs-brings-classic-video-game-to-the-be.html)
-- [The Coast](https://www.thecoast.ca/halifax/nocturne-by-the-hour/Content?oid=4438362)
+<div style="display:flex; flex-wrap:wrap; align-items: center;
+  justify-content: center;">
+     <div style="width:45%; margin:12px;">
+          <img src="images/beachpong_2.jpg"/>
+     </div>
+     <div style="width:45%; margin:12px;">
+          <img src="images/beachpong_3.jpg"/>
+     </div>
+     <div style="width:45%; margin:12px;">
+          <img src="images/beachpong_4.jpg"/>
+     </div>
+     <div style="width:45%; margin:12px;">
+          <img src="images/beachpong_8.jpg"/>
+     </div>
+</div>

@@ -62,7 +62,7 @@
 <a href = "/beachpong.html">
 <h3>Beach Pong (2014 - GEM Lab)</h3>
 <img height=250 src="images/beachpong.jpg"/></a>
-<h5>Mixed Reality (MR), Multimedia Installation, Multiplayer</h5>
+<h5>Mixed Reality (MR), Multimedia Installation, Game Development</h5>
 <br>
 </div>
 

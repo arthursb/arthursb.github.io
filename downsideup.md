@@ -4,15 +4,11 @@
 
 ## About the project
 
-Downside Up is a hardcore 2D platform game in which players must guide a character through two mirrored screens. 
+Downside Up was my Master's degree research project. I studied how data visualization supports level design.
 
-Objects may appear in only one of those screens, besides existing in both, so players must use their gaze to understand and overcome challenges.
+The game is a hardcore 2D platformer in which players must guide a character through two mirrored screens. Objects may appear in only one of those screens, besides existing in both, so players must use their gaze to understand and overcome challenges. We improved this prototype using GUR methods and Data Visualization.
 
-We improved this prototype using GUR methods and Data Visualization.
-
-In this project I learned about designing games based on analytics. You can check more details about the research in the [project's page on Github](https://arthursb.github.io/Downside-Up/).
-
-The game is also available online [here](https://arthursb.github.io/Downside-Up/#gameOverview).
+In this project I learned about designing games based on analytics. You can check more details about the research in the [project's page on Github](https://arthursb.github.io/Downside-Up/). The game is also available online [here](https://arthursb.github.io/Downside-Up/#gameOverview).
 
 ## Media
 
@@ -20,7 +16,18 @@ The game is also available online [here](https://arthursb.github.io/Downside-Up/
 
 <br>
 
-<img src="images/downsideup.png"/>
-<img src="images/downsideup_1.png"/>
-<img src="images/downsideup_2.png"/>
-<img src="images/downsideup_3.png"/>
+<div style="display:flex; flex-wrap:wrap; align-items: center;
+  justify-content: center;">
+     <div style="width:45%; margin:12px;">
+          <img src="images/downsideup.png"/>
+     </div>
+     <div style="width:45%; margin:12px;">
+          <img src="images/downsideup_1.png"/>
+     </div>
+     <div style="width:45%; margin:12px;">
+          <img src="images/downsideup_2.png"/>
+     </div>
+     <div style="width:45%; margin:12px;">
+          <img src="images/downsideup_3.png"/>
+     </div>
+</div>
