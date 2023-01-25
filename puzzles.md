@@ -10,8 +10,7 @@ SumSet games consist of moving pieces to align hexagons such that the sum of the
 
 In TraceRT, players must create a path that guides the ship to collect all items and reach the goal.
 
-<div style="display:flex; flex-wrap:wrap; align-items: center;
-  justify-content: center;">
+<div style="display:flex; flex-wrap:wrap; align-items: center; justify-content: center;">
      <div style="width:27%; height:500px; margin:21px; text-align:center;">
           <h3> SumSet (Classic) </h3>
           <img src="images/sumset-classic.gif"/>
