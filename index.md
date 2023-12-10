@@ -5,7 +5,7 @@
 <div>
 <a href = "/escaperoom.html">
 <h3>AWS Escape Room (2023 - AWS T&C)</h3>
-<img width="90%" src="images/escaperoom.png"/></a>
+<img width="90%" src="images/EscapeRoom.png"/></a>
 <h5>Game-Based Learning, Front End Development</h5>
 <br>
 </div>
