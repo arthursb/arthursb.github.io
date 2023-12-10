@@ -3,10 +3,18 @@
 <h1>Portfolio</h1>
 
 <div>
+<a href = "/escaperoom.html">
+<h3>AWS Escape Room (2023 - AWS T&C)</h3>
+<img width="90%" src="images/escaperoom.png"/></a>
+<h5>Game-Based Learning, Front End Development</h5>
+<br>
+</div>
+
+<div>
 <a href = "/cloudquest.html">
 <h3>Cloud Quest (2021 - AWS T&C)</h3>
 <img width="90%" src="images/cloudquest.png"/></a>
-<h5>Game Based Learning, Front End Development</h5>
+<h5>Game-Based Learning, Front End Development</h5>
 <br>
 </div>
 
@@ -38,7 +46,7 @@
 <a href = "/2001.html">
 <h3>2001: Space Puzzle (2016 - Advance)</h3>
 <img width="70%" src="images/2001_screenshots.jpg"/></a>
-<h5>Game Development</h5>
+<h5>Mobile, Game Development</h5>
 <br>
 </div>
 
@@ -46,7 +54,7 @@
 <a href = "/synesthesia.html">
 <h3>Synesthesia (2016 - UFC)</h3>
 <img width="90%" src="images/synesthesia_2.jpg"/></a>
-<h5>Mixed Reality (MR), Multimedia Installation, Game Development</h5>
+<h5>Mixed Reality (MR), Game Development</h5>
 <br>
 </div>
 
@@ -62,7 +70,7 @@
 <a href = "/beachpong.html">
 <h3>Beach Pong (2014 - GEM Lab)</h3>
 <img width="90%" src="images/beachpong.jpg"/></a>
-<h5>Mixed Reality (MR), Multimedia Installation, Game Development</h5>
+<h5>Mixed Reality (MR), Game Development</h5>
 <br>
 </div>
 
