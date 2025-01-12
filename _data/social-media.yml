@@ -95,3 +95,13 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+
+scholar:
+  url   : https://scholar.google.com/citations?user=
+  icon  : fa fa-graduation-cap
+  color : 4285F4
+
+itchio:
+  url   : https://arthursb.itch.io
+  icon  : fa fa-gamepad
+  color : f44856

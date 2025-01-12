@@ -1,0 +1,11 @@
+- name: Portuguese
+  percentage: 100
+  color: success
+
+- name: English
+  percentage: 80
+  color: success
+
+- name: French
+  percentage: 40
+  color: danger

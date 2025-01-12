@@ -1,0 +1,15 @@
+- name: Tooling
+  percentage: 80
+  color: success
+
+- name: Data Visualization
+  percentage: 80
+  color: success
+
+- name: Methodologies
+  percentage: 70
+  color: warning
+
+- name: Methodologies
+  percentage: 70
+  color: warning

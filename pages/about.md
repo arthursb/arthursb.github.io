@@ -5,16 +5,15 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# About Me
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a game developer leveraging UX knowledge and creativity to elevate the quality of diverse innovative multimedia projects, including mixed reality, augmented reality, simulators, and serious games. 
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+# Education
+
+# Work Experience
 
 <div class="row">
 {% include about/timeline.html %}
 </div>
+

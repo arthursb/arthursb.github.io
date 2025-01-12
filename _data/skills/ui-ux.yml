@@ -1,0 +1,15 @@
+- name: Games User Research
+  percentage: 80
+  color: success
+
+- name: Interaction Design
+  percentage: 70
+  color: warning
+
+- name: Accessibility
+  percentage: 70
+  color: warning
+
+- name: Interface Design
+  percentage: 30
+  color: danger

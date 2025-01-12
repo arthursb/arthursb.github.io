@@ -1,0 +1,15 @@
+- name: Shader Graph
+  percentage: 80
+  color: success
+
+- name: HLSL
+  percentage: 40
+  color: danger
+
+- name: 3D Modelling
+  percentage: 20
+  color: danger
+
+- name: Animation
+  percentage: 20
+  color: danger
