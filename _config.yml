@@ -1,0 +1,68 @@
+### Site Settings ###
+title               : Arthur Bastos
+description         : MSc Computer Science, fascinated by game development and user experience.
+baseurl             : ""
+repository          : arthursb/arthursb.github.io
+remote_theme        : yousinix/portfolYOU
+open_new_tab        : false
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Arthur Bastos
+  image             : https://avatars.githubusercontent.com/u/2722172?v=4
+  email             : arthursbastos1@gmail.com
+  github            : arthursb
+  linkedin          : arthur-gamedev
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
