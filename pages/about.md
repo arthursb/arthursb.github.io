@@ -19,6 +19,19 @@ I am a game developer leveraging UX knowledge and creativity to elevate the qual
 
 • Bachelor's Degree in Systems and Digital Media - UFC (2012 to 2017)
 
+# Skills
+
+<div class="row">
+    {% include about/skills.html title="Game Development" source=site.data.skills.game-development %}
+    {% include about/skills.html title="Computer Graphics" source=site.data.skills.computer-graphics %}
+    {% include about/skills.html title="UI/UX" source=site.data.skills.ui-ux %}
+</div>
+
+<div class="row">
+    {% include about/skills.html title="Game Design" source=site.data.skills.game-design %}
+    {% include about/skills.html title="Languages" source=site.data.skills.languages %}
+</div>
+
 ## Work Experience
 
 <div class="row">
