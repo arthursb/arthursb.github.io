@@ -3,8 +3,8 @@
   color: success
 
 - name: HLSL
-  percentage: 40
-  color: danger
+  percentage: 50
+  color: warning
 
 - name: 3D Modelling
   percentage: 20
