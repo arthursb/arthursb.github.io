@@ -5,7 +5,9 @@ permalink: /
 
 {% include landing.html %}
 
-## Currently at AWS, I...
+{% include elements/button.html link="https://github.com" text="Play my games" style="outline-dark" size="lg" %}
+
+### Currently at AWS, I...
 - Develop educational games for [Skill Builder](https://skillbuilder.aws/).
 - Optimize performance for WebGL.
 - Am the reference on Game UI/UX in the frontend team.

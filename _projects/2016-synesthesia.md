@@ -1,6 +1,6 @@
 ---
-name: Synesthesia (2016)
-tools: [Mixed Reality, Research]
+name: 2016 - Synesthesia
+tools: [GameDev, Mixed Reality, Research]
 image: "../images/immersive.jpg"
 description: An immersive, award-winning mixed reality game.
 ---
@@ -26,15 +26,7 @@ Other elements include LED lights synced with the soundtrack that helped delimit
 
 ## Results
 
-Achieved my Bachelor's degrees thanks to the game's quality and rich research results about immersion in games.
-
-The research won a [Best Paper Award](http://usuarios.upf.br/~rieder/svr2017/awards.html) in 2017.
-
-## References
-
-- [Crearetech on Facebook](https://www.facebook.com/crearetech/)
-- [Eusebio's Official Website](http://eusebio.ce.gov.br/guarda-municipal-e-a-primeira-do-pais-a-utilizar-o-simulador-xtreme-nos-treinamentos/)
-- [Maracanau's Official Website](https://www.maracanau.ce.gov.br/guarda-municipal-de-maracanau-utiliza-simulador-de-tiro/)
+Achieved my Bachelor's degrees thanks to the game's quality and rich research results about immersion in games. The research won a [Best Paper Award](http://usuarios.upf.br/~rieder/svr2017/awards.html) in 2017.
 
 ## Media
 
