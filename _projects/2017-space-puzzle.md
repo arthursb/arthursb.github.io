@@ -40,6 +40,6 @@ The game was released in 2016 for iOS and Android and was maintained up to 2017.
 
 ## Media
 
-![alt text](../images/2001_screenshots.jpg "Building Image")
+![Space Puzzle Levels](../images/2001_screenshots.jpg "2001 Space Puzzle Levels")
 
 {% include elements/video.html id="-sThnOeglHI" %}
