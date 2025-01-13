@@ -9,7 +9,3 @@
 - name: Methodologies
   percentage: 70
   color: warning
-
-- name: Methodologies
-  percentage: 70
-  color: warning
