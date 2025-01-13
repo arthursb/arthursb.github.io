@@ -9,13 +9,14 @@ description: A mobile puzzle game developed to test the local market's consumer 
 
 ![Intro](../images/2001_banner.jpg "Space Puzzle's intro banner")
 
+{% include elements/button.html link="https://arthursb.itch.io/2001-space-puzzle-demo" text="Play the Demo Online" style="primary" size="lg" block=true %}
+
 ## About the project
 
 2001: Space Puzzle is a sliding puzzle game inspired by Sokoban and Kakuro. To win, players must match the values of ally and enemy ships on both lines and columns. Features include: different obstacles that may appear in the grid, four types of ships, each one with different properties, and a custom level creator.
 
 Legacy apk build versions have been preserved by [APKPure](https://apkpure.com/2001-space-puzzle/com.AdvanceGames.DeltaFormation/versions).
 
-{% include elements/button.html link="https://arthursb.itch.io/2001-space-puzzle-demo" text="Play the Demo Online" style="primary" size="lg" %}
 
 ## My contributions
 

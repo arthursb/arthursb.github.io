@@ -7,23 +7,25 @@ weight: 3
 
 # About Me
 
-I’m a passionate game developer, blending my expertise in UX design with creativity to craft high-quality, innovative multimedia experiences. 
-
-My work spans a variety of areas, including mixed reality, augmented reality, simulators, and serious games. 
+I’m a passionate game developer, blending my expertise in UX design with creativity to craft high-quality, innovative multimedia experiences. My work spans a variety of areas, including mixed reality, augmented reality, simulators, and serious games. 
 
 I pursue innovation and strive to create engaging and meaningful interactions that push the boundaries of what’s possible.
 
 # Outside Work
 
-When I’m not coding, I’m spending time with my wonderful wife and our baby girl. I’m still figuring out how to balance family life with my drive to deepen my knowledge in software engineering, computer graphics, and UI/UX design.
+* 👶🏻 Spending time with my wonderful wife and baby girl.
 
-In my downtime, I’m always immersed in video game music. One day, I hope to learn how to compose my own scores. 
+* 📚 Studying more about software engineering, computer graphics, and user experience.
 
-I’m also an avid gamer and collector, and I proudly own most of the current-generation consoles, with a special interest in the Quest 3 and the Rog Ally X.
+* 🎵 One day I will compose my own video game music!
 
-While I used to be deeply into CrossFit and gym sessions, I now aim to stay active with a more flexible routine.
+* 🎮 Avid gamer and collector.
 
-Some of my all-time favorite games include Metroid Prime, Celeste, Super Meat Boy, NieR: Automata, and the Shin Megami Tensei series. These games inspire me not only as a player but also as a developer, reminding me of the power of storytelling, design, and challenge in gameplay.
+* 🏋️‍♂️ Tring to get back to CrossFit and gym.
+
+* 🕹️ Former competitive Smash Bros. player (main Ness).
+
+* 👾 Some of my all-time favorite games: *Metroid Prime*, *Golden Sun*, *Celeste*, *Super Meat Boy*, *NieR: Automata*, *Shin Megami Tensei IV*.
 
 # Skills
 

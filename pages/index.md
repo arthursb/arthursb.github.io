@@ -5,7 +5,10 @@ permalink: /
 
 {% include landing.html %}
 
-{% include elements/button.html link="https://github.com" text="Play my games" style="outline-dark" size="lg" %}
+<div align=center>
+    {% include elements/button.html link="https://arthursb.itch.io/" text="Play My Game Prototypes Online" style="primary" size="lg" %}
+</div>
+
 
 ### Currently at AWS, I...
 - Develop educational games for [Skill Builder](https://skillbuilder.aws/).
