@@ -14,5 +14,5 @@ permalink: /
 - Handle accessibility and localization features.
 
 <div align=center>
-    {% include elements/button.html link="https://arthursb.itch.io/" text="Play My Game Prototypes Online" style="primary" size="lg" %}
+    {% include elements/button.html link="https://arthursb.itch.io/" text="Play My Game Prototypes" style="primary" size="lg" %}
 </div>
