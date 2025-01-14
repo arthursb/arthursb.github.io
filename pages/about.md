@@ -24,6 +24,8 @@ Here are a few curiosities about myself outside work:
 
 * 🕹️ Former competitive Smash Bros. player (main Ness).
 
+* 💀 Often known as "that Mono Black guy" by fellow MtG Commander players.
+
 * 👾 Some of my all-time favorite games: *Metroid Prime*, *Golden Sun*, *Celeste*, *Super Meat Boy*, *NieR: Automata*, *Shin Megami Tensei IV*.
 
 <div class="row">
