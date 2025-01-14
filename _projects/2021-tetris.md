@@ -2,7 +2,7 @@
 name: 2021 - Tetris Effect Test
 tools: [GameDev, Personal]
 image: "../images/Tetris.png"
-description: An augmented reality research and development project for the electrical industry. 
+description: A personal project inspired by Tetris Effect. 
 ---
 
 # Tetris Effect Test

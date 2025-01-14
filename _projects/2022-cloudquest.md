@@ -2,7 +2,7 @@
 name: 2022 - Cloud Quest
 tools: [GameDev, Commercial]
 image: "../images/cloudquest.png"
-description: An immersive, award-winning mixed reality game.
+description: A gamefied way to learn how to use AWS.
 ---
 
 # Cloud Quest

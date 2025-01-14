@@ -1,8 +1,8 @@
 ---
 name: 2018 - Advance Games
-tools: [GameDev, Comercial]
+tools: [GameDev, Commercial]
 image: "../images/advancegames.jpg"
-description: A mobile puzzle game developed to test the local market's consumer practices.
+description: A series of puzzle prototypes to showcase the team's game dev expertise.
 ---
 
 # Advance Games

@@ -1,6 +1,6 @@
 ---
 name: 2020 - Copelia
-tools: [Augmented Reality, Research, Comercial]
+tools: [Augmented Reality, Research, Commercial]
 image: "../images/smartglass.jpg"
 description: An augmented reality research and development project for the electrical industry. 
 ---
