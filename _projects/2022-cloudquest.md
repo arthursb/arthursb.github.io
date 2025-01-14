@@ -38,11 +38,4 @@ Cloud Quest quickly became the most accessed and well received <a href="https://
 
 ## Media
 
-{% capture carousel_images %}
-../images/cq_ui_1.png
-../images/cq_ui_3.png
-../images/cq_ui_4.png
-{% endcapture %}
-{% include elements/carousel.html %}
-
 {% include elements/video.html id="lcmVvIeiFGc" %}
