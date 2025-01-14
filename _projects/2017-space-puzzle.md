@@ -1,6 +1,6 @@
 ---
 name: 2017 - Space Puzzle
-tools: [GameDev]
+tools: [GameDev, Comercial]
 image: "../images/2001_banner.jpg"
 description: A mobile puzzle game developed to test the local market's consumer practices.
 ---

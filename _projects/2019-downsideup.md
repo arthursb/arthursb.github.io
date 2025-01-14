@@ -1,6 +1,6 @@
 ---
 name: 2019 - Downside Up
-tools: [GameDev, Research]
+tools: [GameDev, Research, Academic]
 image: "../images/downsideup.png"
 description: A tough, eye-deceiving, platform game inspired by I Wanna be the Guy.
 ---

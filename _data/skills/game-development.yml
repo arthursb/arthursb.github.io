@@ -10,6 +10,6 @@
   percentage: 80
   color: success
 
-- name: HTML/CSS/Js
-  percentage: 40
+- name: HTML/CSS/JS
+  percentage: 30
   color: danger

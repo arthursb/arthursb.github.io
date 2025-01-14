@@ -1,6 +1,6 @@
 ---
 name: 2016 - Synesthesia
-tools: [GameDev, Mixed Reality, Research]
+tools: [GameDev, Mixed Reality, Research, Academic]
 image: "../images/immersive.jpg"
 description: An immersive, award-winning mixed reality game.
 ---

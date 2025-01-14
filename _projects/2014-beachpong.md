@@ -1,6 +1,6 @@
 ---
 name: 2014 - Beach Pong
-tools: [GameDev, Mixed Reality, Research]
+tools: [GameDev, Mixed Reality, Research, Academic]
 image: "../images/beachpong_6.jpg"
 description: Real-life Pong using mixed reality technologies.
 ---

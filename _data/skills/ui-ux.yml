@@ -2,10 +2,6 @@
   percentage: 80
   color: success
 
-- name: Interaction Design
-  percentage: 70
-  color: warning
-
 - name: Accessibility
   percentage: 70
   color: warning
