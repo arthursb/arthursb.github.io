@@ -1,7 +1,7 @@
 ---
 name: 2025 - Escape Room Solutions Architect
 tools: [GameDev, Commercial]
-image: "../images/er-fai-logo.png"
+image: "../images/er-saa-logo.png"
 description: A fun way to prepare for the AWS Cloud Solutiions Architect certification.
 ---
 
