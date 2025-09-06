@@ -6,11 +6,10 @@ permalink: /
 {% include landing.html %}
 
 
-#### Currently at AWS, I...
-- Develop educational games for [Skill Builder](https://skillbuilder.aws/).
-- Optimize performance for WebGL.
-- Am the reference on Game UI/UX in the frontend team.
-- Craft innovative puzzles for the Escape Room games.
+#### Currently at KnowBe4, I...
+- Work as Game Developer in the Innovation Lab department.
+- Expand the design space and reach of the company's educational games.
+- Optimize performance for Unity WebGL games.
 - Handle accessibility and localization features.
 
 <div align=center>

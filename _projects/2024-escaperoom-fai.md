@@ -2,7 +2,7 @@
 name: 2024 - Escape Room AI Practitioner
 tools: [GameDev, Commercial]
 image: "../images/er-fai-logo.png"
-description: A fun way to prepare for the AWS Cloud Practitioner certification.
+description: A fun way to prepare for the AWS Certified AI Practitioner certification.
 ---
 
 # Escape Room AI Practitioner
